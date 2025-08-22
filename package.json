@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node run.js"
   },
-  "keywords": ["nft", "marketplace", "bot", "ethers"],
+  "keywords": ["nft", "marketplace", "bot", "ethers", "citrea"],
   "author": "bactiar291",
   "license": "MIT",
   "dependencies": {
