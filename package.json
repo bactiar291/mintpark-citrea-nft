@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Bot Marketplace NFT untuk jaringan Citrea Testnet",
   "main": "run.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "start": "node run.js"
   },
