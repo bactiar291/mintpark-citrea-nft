@@ -1,0 +1,17 @@
+{
+  "name": "mintpark-bot",
+  "version": "1.0.0",
+  "description": "Bot Marketplace NFT untuk jaringan Citrea Testnet",
+  "main": "run.js",
+  "type": "module",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "keywords": ["nft", "marketplace", "bot", "ethers"],
+  "author": "bactiar291",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "ethers": "^6.15.0"
+  }
+}
